@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**damarant/damarant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Benvenuti nel mio profilo GitHub! 👋
 
-Here are some ideas to get you started:
+Sono un appassionato di **Ethical Hacking** e attualmente sto studiando per approfondire le mie conoscenze nel campo della **Cybersecurity**. Ho ottenuto una certificazione in questo settore e sono entusiasta di condividere le mie esperienze e competenze con la comunità.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In questo spazio, pubblicherò delle guide e risorse utili per risolvere le **Capture The Flag (CTF)**, un ottimo modo per mettere alla prova le proprie abilità e imparare nuove tecniche di hacking etico.
+
+## Cosa troverai qui:
+
+- 🛠️ Guide passo-passo per risolvere CTF
+- 📚 Risorse e materiali di studio
+- 💡 Suggerimenti e trucchi per migliorare le tue competenze in cybersecurity
+
+
+⚡ **Fun fact:** Non si finisce mai di imparare, anche dai consigli di un bambino!
+
+Grazie per la visita e spero che le mie risorse possano esserti utili!
+
+---
+
