@@ -1,5 +1,5 @@
 
-# Benvenuti nel mio profilo GitHub! 👋
+![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/ejpt.png) # Benvenuti nel mio profilo GitHub! 👋
 
 Sono un appassionato di **Ethical Hacking** e attualmente sto studiando per approfondire le mie conoscenze nel campo della **Cybersecurity**. Ho ottenuto una certificazione in questo settore e sono entusiasta di condividere le mie esperienze e competenze con la comunità.
 
@@ -22,4 +22,4 @@ Grazie per la visita e spero che le mie risorse possano esserti utili!
 
 ---
 
-![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/ejpt.png) ![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/damaranto.png)
+![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/damaranto.png)
