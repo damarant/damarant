@@ -22,4 +22,4 @@ Grazie per la visita e spero che le mie risorse possano esserti utili!
 
 ---
 
-![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/damaranto.png) ![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/ejpt.png)
+![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/ejpt.png) ![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/damaranto.png)
