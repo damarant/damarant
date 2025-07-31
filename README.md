@@ -21,3 +21,5 @@ Grazie per la visita e spero che le mie risorse possano esserti utili!
 **Nota Bene:** Tutti i contenuti presenti in questo spazio sono destinati esclusivamente a scopi di studio ed apprendimento nel campo dell'ethical hacking. È severamente vietato l'uso illegale di qualsiasi codice o informazione fornita. Non ci assumiamo alcuna responsabilità per l'uso improprio del materiale e per eventuali danni derivanti da esso.
 
 ---
+
+![TryHackMe](https://raw.githubusercontent.com/damarant/damarant/main/damaranto.png)
