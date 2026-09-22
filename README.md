@@ -1,3 +1,4 @@
+
 # 👋 Welcome to my GitHub profile!
 
 Hi! I'm passionate about **Ethical Hacking**, **Cybersecurity**, and **Large Language Models (LLM)**. I am currently deepening my knowledge in cybersecurity and, at the same time, exploring the world of language models to understand how they work under the hood.
@@ -10,18 +11,31 @@ In this space I publish guides, resources, and practical projects: from writeups
 
 ## 🚀 My Projects
 
-### 🧪 LLM Lab – Learn by Playing with Language Models
-A practical lab for a **first approach to LLMs**. Not just theory: you download a small model (Qwen2.5-0.5B) and, step by step, modify it to see how its behavior changes.
+### 🚩 CTF – Guide to Solving Capture The Flag
+Step-by-step guides to solve **Capture The Flag**, a great way to test your skills and learn new ethical hacking techniques.
 
-**What you'll learn:**
-- 🔤 **Tokens**: why words are split into chunks
-- ✍️ **Generation**: how the model chooses one word at a time
-- 🌡️ **Temperature**: the control of creativity
-- 🎯 **Top-K and Top-P**: filters for selecting words
-- 🧭 **Steering**: how to "guide" the model by modifying its internal activations
-- 🎮 **Interactive generation**: you choose the tokens step by step!
+- 🛠️ Detailed CTF guides
+- 📚 Resources and study materials
+- 💡 Tips and tricks to improve your cybersecurity skills
 
-🔗 [Go to the LLM Lab repo](https://github.com/damarant/llm-lab)
+🔗 [Go to the CTF repo](https://github.com/damarant/CTF)
+
+---
+
+### 🌐 NetPriority – Windows QoS & DSCP Manager
+
+A Windows desktop application for managing application network priorities through **Windows QoS policies** and **DSCP values**.
+
+**Key features:**
+- 📋 Lists running applications on the system
+- 🔍 Allows searching and selecting an application
+- 📁 Allows manually selecting an `.exe` file
+- ⚙️ Creates QoS rules associated with an application and a DSCP value
+- 📜 Lists all QoS policies present on the system
+- 🗑️ Removes selected QoS policies (with confirmation for those not managed by NetPriority)
+- 🛡️ Shows administrator privilege status
+
+🔗 [Go to the NetPriority repo](https://github.com/damarant/NetPriority)
 
 ---
 
@@ -39,14 +53,35 @@ An offline automatic voice dubbing project that translates and dubs content from
 
 ---
 
-### 🚩 CTF – Guide to Solving Capture The Flag
-Step-by-step guides to solve **Capture The Flag**, a great way to test your skills and learn new ethical hacking techniques.
+### 🧪 LLM Lab – Learn by Playing with Language Models
+A practical lab for a **first approach to LLMs**. Not just theory: you download a small model (Qwen2.5-0.5B) and, step by step, modify it to see how its behavior changes.
 
-- 🛠️ Detailed CTF guides
-- 📚 Resources and study materials
-- 💡 Tips and tricks to improve your cybersecurity skills
+**What you'll learn:**
+- 🔤 **Tokens**: why words are split into chunks
+- ✍️ **Generation**: how the model chooses one word at a time
+- 🌡️ **Temperature**: the control of creativity
+- 🎯 **Top-K and Top-P**: filters for selecting words
+- 🧭 **Steering**: how to "guide" the model by modifying its internal activations
+- 🎮 **Interactive generation**: you choose the tokens step by step!
 
-🔗 [Go to the CTF repo](https://github.com/damarant/CTF)
+🔗 [Go to the LLM Lab repo](https://github.com/damarant/llm-lab)
+
+---
+
+### 👾 Aliens – 2D Arcade Space Shooter
+
+A 2D arcade space shooter built with **Python** and **Pygame**: battle waves of aliens, defeat the boss, and climb the high score leaderboard.
+
+**Key features:**
+- 🎮 Flexible controls: keyboard, mouse (shooting only), or hybrid mode
+- 👽 Three alien types with different behaviors
+- 👑 Final boss with health bar, laser attacks, and fire bursts
+- ⚡ Power-ups: Shield, Rapid Fire, Multi-Shot
+- 📈 Progressive difficulty after each boss
+- 🏆 High score leaderboard (top 5 scores)
+- 🔊 Dynamic sound effects generated with `numpy`
+
+🔗 [Go to the Aliens-Game repo](https://github.com/damarant/Aliens-Game)
 
 ---
 
@@ -85,9 +120,11 @@ Step-by-step guides to solve **Capture The Flag**, a great way to test your skil
 
 ## 📚 What you'll find here
 
-- 🛠️ Step-by-step guides to solve CTFs
-- 🧪 Hands-on labs on LLMs and NLP
+- 🚩 Step-by-step guides to solve CTFs
+- 🌐 Network tools for QoS and DSCP priority management
 - 🎙️ Tools for dubbing and speech synthesis
+- 🧪 Hands-on labs on LLMs and NLP
+- 🎮 2D arcade games built with Python and Pygame
 - 📚 Resources and study materials
 - 💡 Tips and tricks to improve your skills
 
@@ -114,4 +151,4 @@ Thanks for visiting and I hope my resources can be useful to you! 🙌
 
 ---
 
-![eJPT](https://raw.githubusercontent.com/damarant/damarant/main/ejpt.png) 
+![eJPT](https://raw.githubusercontent.com/damarant/damarant/main/ejpt.png)
