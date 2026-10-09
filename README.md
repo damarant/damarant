@@ -22,6 +22,27 @@ Step-by-step guides to solve **Capture The Flag**, a great way to test your skil
 
 ---
 
+### 📡 NetworkWatcher – Home Network Monitoring on ESP32-S2
+
+A home network monitoring system running on an **ESP32-S2 mini (WEMOS)**, built with **ESP-IDF**. It performs periodic **ARP scans**, tracks devices, and sends notifications when new or blacklisted devices appear on the network.
+
+**Key features:**
+- 🔍 **ARP scanner** — periodic network scan (configurable interval 1–60 min)
+- 📋 **MAC lists** — whitelist, blacklist and unknown devices, with descriptions
+- 📲 **Telegram notifications** — aggregated message per scan
+- 🔗 **Generic webhook** — HTTP POST to ntfy.sh, Discord, Slack, IFTTT, Home Assistant, Gotify, or any custom server
+- 💾 **Backup / restore** — export and import MAC lists as JSON
+- 🔀 **Bulk move** — move all MACs from one list to another
+- 🏭 **Vendor lookup** — manufacturer name from MAC OUI (~60 vendors)
+- 🖥️ **Web UI** — responsive interface with session authentication
+- 📜 **Log viewer** — in-RAM buffer for WARNING and ERROR messages
+- 🌐 **mDNS** — `network-watcher.local`
+- ♻️ **Factory reset** — via button or web UI
+
+🔗 [Go to the NetworkWatcher repo](https://github.com/damarant/NetworkWatcher)
+
+---
+
 ### 🌐 NetPriority – Windows QoS & DSCP Manager
 
 A Windows desktop application for managing application network priorities through **Windows QoS policies** and **DSCP values**.
@@ -101,10 +122,15 @@ A 2D arcade space shooter built with **Python** and **Pygame**: battle waves of 
 ![CTF](https://img.shields.io/badge/-CTF-FF0000?style=flat&logo=ctftime&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-412991?style=flat&logo=openai&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-8CC63F?style=flat&logo=freertos&logoColor=black)
 
 **Security:** Penetration Testing · CTF · Network Security · Web Exploitation · Red Teaming
 **AI/ML:** Transformers · NLP · LLM Steering · Tokenization
 **Audio:** Speech-to-Text · Text-to-Speech · Voice Cloning
+**Embedded / IoT:** ESP-IDF · ESP32-S2 · FreeRTOS · LittleFS · NVS · mDNS · REST API · Telegram Bot API · Webhooks
 
 ---
 
@@ -121,6 +147,7 @@ A 2D arcade space shooter built with **Python** and **Pygame**: battle waves of 
 ## 📚 What you'll find here
 
 - 🚩 Step-by-step guides to solve CTFs
+- 📡 Embedded network monitoring tools (ESP32 / IoT)
 - 🌐 Network tools for QoS and DSCP priority management
 - 🎙️ Tools for dubbing and speech synthesis
 - 🧪 Hands-on labs on LLMs and NLP
@@ -152,3 +179,5 @@ Thanks for visiting and I hope my resources can be useful to you! 🙌
 ---
 
 ![eJPT](https://raw.githubusercontent.com/damarant/damarant/main/ejpt.png)
+
+
