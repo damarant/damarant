@@ -59,7 +59,22 @@ A Windows desktop application for managing application network priorities throug
 🔗 [Go to the NetPriority repo](https://github.com/damarant/NetPriority)
 
 ---
+### 🦆 DuckRelay – BadUSB + Serial C2 on ESP32-S2 Mini
 
+A composite USB device firmware for the **ESP32-S2 Mini (Wemos)**, built with **ESP-IDF**, that combines **DuckyScript HID injection**, a **serial C2 channel** to a Windows agent, and a **built-in Wi-Fi web UI**.
+
+**Key features:**
+- ⌨️ **DuckyScript engine** — layout IT/US, BOOT trigger (1 tap = IT, 2 taps = US)
+- 🔌 **Composite USB** — HID keyboard + CDC serial + MSC mass storage
+- 🛰️ **Serial C2** — exec, upload, download, ping, exit (TLV protocol)
+- 🌐 **Web UI** — Wi-Fi SoftAP (hidden) at `http://192.168.4.1/`
+- 🧠 **Windows agent** — scheduled task persistence (`Riagent`)
+- 💾 **Script library** — save, load, delete `.duck` payloads from the web UI
+- 📡 **UART0 log** — optional FT232 adapter on GPIO37/39
+
+🔗 [Go to the DuckRelay repo](https://github.com/damarant/duckrelay)
+
+---
 ### 🎙️ Dubber – Voice Dubbing EN → IT
 An offline automatic voice dubbing project that translates and dubs content from **English to Italian** in real time, starting from system audio. Completely local, without LLMs.
 
